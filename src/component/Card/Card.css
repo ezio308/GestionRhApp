@@ -1,0 +1,48 @@
+
+.emp {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    width: 400px;
+    height: 60px;
+    text-align: left;
+    font: normal normal 600 20px/25px Inter;
+    letter-spacing: 0px;
+    color: #868EAE;
+    box-shadow: 0px 10px 30px #9299B826;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.icon {
+    float: left;
+    top: 286px;
+    left: 346px;
+    width: 10px;
+    height: 10px;
+    border: 2px #868EAE;
+    padding-top: 23px;
+    padding-left: 30px;
+}
+
+.stats {
+    padding-top: 20px;
+    height: 24px;
+    text-align: left;
+    font: normal normal 600 20px/25px Inter;
+    letter-spacing: 0px;
+    color: #868EAE;
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.numb {
+    padding-top: 19px;
+    float: right;
+    margin-right: 25px;
+    width: 31px;
+    height: 29px;
+    font: normal normal bold 24px/30px Inter;
+    letter-spacing: 0px;
+    color: #5F63F2;
+}
+
+

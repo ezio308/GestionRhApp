@@ -1,0 +1,111 @@
+
+
+
+
+.App {
+  background-color: white;
+}
+
+.Auth-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #323133;
+  
+}
+
+
+.Auth-form {
+ 
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  border-radius: 30px;
+  background-color: white;
+  width: 562px;
+  height: 682px;
+  padding-bottom:200px ;
+}
+
+.Logo {
+   justify-content: center;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   margin-top: 0px;
+   margin-bottom: 50px;
+   padding-top: 0px;
+   padding-bottom: 0px;  
+    
+  
+  
+}
+
+.Auth-form-content {
+  padding-left: 52px;
+  padding-right: 52px;
+  justify-content: center;
+  
+}
+
+
+.btn-btn-primary {
+    background: #7D869C;
+    color: #fff;
+    padding: 18px;
+    border-radius: 6px;
+    cursor: pointer;
+    padding-bottom: 16px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    width: 459px;
+   height: 60px;
+    
+    
+  }
+  
+ h5 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+ }
+  input  {
+   height: 60px;
+   width: 460px;
+   
+ }
+
+  label {
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(34, 34, 34);
+    
+  }
+  .Reste-oublié {
+    align-items: center;
+    justify-content: center;
+  }
+.linkcnx {
+    text-decoration: none;
+    float: right; 
+    margin-top: 7px;
+    font-size: 15px;
+    font-weight: 400;
+}
+p {
+    font-size: 14px;
+    float: left;
+
+  }
+
+
+  .label-check {
+   display: inline-block; 
+  }
+
+
+
+  

@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+.trigger {
+
+    font-size: 18px;
+    line-height: 64px;
+    cursor: pointer;
+    transition: color 0.3s;
+    padding-left: 30px;
+    margin-right: 13px;
+}
+
+.trigger:hover {
+    color: "black";
+}
+
+
+
+.site-layout .site-layout-background {
+    background: #fff;
+    height: 65px;
+}
+
+.sidebar {
+    background-color: "#FFFFFF" !important;
+    
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo-img {
+    width: 89px;
+    height: 16px;
+    margin-right: 13px;
+    margin-top: 2.5px;
+    font: normal normal medium 12px/15px Inter;
+}
+
+.title {
+    margin-left: 30px;
+    height: 15px;
+    color: #9299B8;
+    margin-top: 28px;
+}
+
+.recherche {
+    margin-left: 20x;
+    border-style: none;
+    margin-top: 5px;
+   
+}
+
+.profile {
+    border: 0px;
+    float: right;
+    background-color: white;
+    padding: 0px !important;
+}
+.profile-pic {
+    height: 34px;
+    width: 34px;
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+    border-radius: 1000px;
+}
+
+.ant-menu>.ant-menu-item-selected {
+    background-color: #f5f5f5e3 !important;
+
+    color: #7D869C !important;
+    border-radius: 4px;
+    border-style: none;
+
+
+}
+
+.ant-menu>.ant-menu-item {
+    font-size: 11px;
+    
+    
+}
+
+.ant-menu-inline .ant-menu-item::after {
+
+
+    border-right: none;
+}
+
+aside {
+    max-width: 280px;
+    width: 280x;
+    min-width: 280px;
+
+}
+
+
+
+.ant-menu-item .ant-menu-item-icon, .ant-menu-submenu-title .ant-menu-item-icon, .ant-menu-item .anticon, .ant-menu-submenu-title .anticon {
+ color: #ADB4D2 !important;
+}
